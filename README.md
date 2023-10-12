@@ -5,7 +5,7 @@ Alford Digital takes your privacy seriously. To better protect your privacy we p
 
 ## Collection of Routine Information
 
-Our apps track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific users to our apps. The information is tracked for routine administration and maintenance purposes.
+Our apps track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific users to our apps. The information is tracked for routine administration and maintenance purposes. in addition to info collected in our app we may collect certain information through our marketing efforts to provide service to potential clients. No personal information collected is ever sold or shared with outside parties and is solely for the purpose of providing the best service we possibly can. 
 
 
 ## Cookies
